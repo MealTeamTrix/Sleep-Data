@@ -1,9 +1,10 @@
 # Project Name
-This project is ________. (Describe the main goals of the project. Limit to 1-2 sentences)
+The is the "Getting a Good Night's Sleep" project from Datacamp.
 
 ## Description
-Optional section to provide a more detailed overview of the project.
+The purpose of this project is to answer analzye the sleep_health.csv data set and answer the following questions.
+1. Which occupation has the lowest average sleep duration?
+2. Which occulation has the lowest average sleep quality?
+3. Finally explore the BMI Category and identify if that affects sleep disorder rates.
 
-## Getting Started
-Optional section to summarize important steps and how to use the project & apps in the project
 
